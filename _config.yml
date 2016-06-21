@@ -1,5 +1,6 @@
-layout_spectrum: 0.5449770309496671
 typography_spectrum: 0.9149513524025679
+content_rating:
+  adult: false
 color:
   brandStrength: 0.653523086803034
   lightness: 0.19346315483562648
@@ -11,4 +12,7 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+layout_spectrum: 0.5449770309496671
+author:
+  name: ''
 name: natural symbols
