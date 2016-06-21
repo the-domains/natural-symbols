@@ -1,0 +1,14 @@
+layout_spectrum: 0.5449770309496671
+typography_spectrum: 0.9149513524025679
+color:
+  brandStrength: 0.653523086803034
+  lightness: 0.19346315483562648
+  saturation: 0.10003644763492048
+  rhythmicContrast: 0.43838799884542823
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: natural symbols
