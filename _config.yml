@@ -16,3 +16,8 @@ layout_spectrum: 0.5449770309496671
 author:
   name: ''
 name: natural symbols
+navigation:
+  - id: 'https://www.facebook.com/RobertAMEHorne'
+    url: 'https://www.facebook.com/RobertAMEHorne'
+    name: Rob's fb
+    type: external
